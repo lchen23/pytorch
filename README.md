@@ -1,2 +1,2 @@
 # pytorch
-practice with pytorch lib
+My practicing scripts with pytorch lib
